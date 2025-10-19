@@ -10,6 +10,7 @@ const AllApp = () => {
   
     return (
         <div>
+        
         <Application data={data}></Application>
         </div>
     );

@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { useLoaderData } from 'react-router';
 import { getStoredApp } from '../../utility/addToDB';
-import Application from '../Application/Application';
+
 import Applications from '../Applications/Applications';
 
 const Install = () => {
