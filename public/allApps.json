@@ -1,0 +1,218 @@
+[
+  {
+    "image": "https://i.ibb.co.com/ZppwP2Pk/images.jpg",
+    "title": "Meta Connect Chat",
+    "companyName": "Meta Platforms, Inc.",
+    "id": 1,
+    "description": "The world's most popular messaging and video call application.",
+    "size":"160MB",
+    "reviews": "85k",
+    "ratingAvg": 4.6,
+    "downloads": "8M",
+    "ratings": [
+      { "name": "1 star", "count": 120000 },
+      { "name": "2 star", "count": 180000 },
+      { "name": "3 star", "count": 800000 },
+      { "name": "4 star", "count": 2500000 },
+      { "name": "5 star", "count": 4900000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/tM823ZJv/images.png",
+    "title": "StreamFlix",
+    "companyName": "Stream Global",
+    "id": 2,
+    "description": "Watch thousands of movies and TV shows instantly on your device.",
+    "size": "180MB",
+    "reviews": "80k",
+    "ratingAvg": 4.5,
+    "downloads": "9M",
+    "ratings": [
+      { "name": "1 star", "count": 90000 },
+      { "name": "2 star", "count": 110000 },
+      { "name": "3 star", "count": 450000 },
+      { "name": "4 star", "count": 1550000 },
+      { "name": "5 star", "count": 2000000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/qFcg1vnL/unnamed.webp",
+    "title": "ImageCraft Editor",
+    "companyName": "Pro Photo Solutions",
+    "id": 3,
+    "description": "Professional-grade photo editing with AI filters and retouching tools.",
+    "size": "170MB",
+    "reviews":"42k",
+    "ratingAvg": 4.7,
+    "downloads": "6M",
+    "ratings": [
+      { "name": "1 star", "count": 20000 },
+      { "name": "2 star", "count": 30000 },
+      { "name": "3 star", "count": 150000 },
+      { "name": "4 star", "count": 450000 },
+      { "name": "5 star", "count": 850000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/VW95cQv3/images-1.jpg",
+    "title": "AudioStream",
+    "companyName": "TuneWave Inc.",
+    "id": 4,
+    "description": "Millions of songs and podcasts, personalized for you.",
+    "size":"100MB",
+    "reviews": "30k",
+    "ratingAvg": 4.4,
+    "downloads": "11M",
+    "ratings": [
+      { "name": "1 star", "count": 150000 },
+      { "name": "2 star", "count": 250000 },
+      { "name": "3 star", "count": 700000 },
+      { "name": "4 star", "count": 2000000 },
+      { "name": "5 star", "count": 2900000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/cKNTdrSh/unnamed-1.webp",
+    "title": "Task Master Pro",
+    "companyName": "Efficiency Labs",
+    "id": 5,
+    "description": "Manage your projects, to-dos, and team collaboration seamlessly.",
+    "size": "225MB",
+    "reviews": "22k",
+    "ratingAvg": 4.8,
+    "downloads": "3M",
+    "ratings": [
+      { "name": "1 star", "count": 5000 },
+      { "name": "2 star", "count": 8000 },
+      { "name": "3 star", "count": 57000 },
+      { "name": "4 star", "count": 350000 },
+      { "name": "5 star", "count": 560000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/W4q79C63/global-ecommerce-shopping-cart-icon-260nw-2635905965.webp",
+    "title": "Global E-Cart",
+    "companyName": "Retail Giant Ltd.",
+    "id": 6,
+    "description": "Shop for millions of products with fast delivery and great deals.",
+    "size":"125MB",
+    "reviews": "90k",
+    "ratingAvg": 4.3,
+    "downloads": "5M",
+    "ratings": [
+      { "name": "1 star", "count": 500000 },
+      { "name": "2 star", "count": 700000 },
+      { "name": "3 star", "count": 1800000 },
+      { "name": "4 star", "count": 3500000 },
+      { "name": "5 star", "count": 5500000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/23s91r6j/unnamed.png",
+    "title": "WayFinder GPS",
+    "companyName": "MapTech Data",
+    "id": 7,
+    "description": "Real-time navigation, traffic updates, and public transport routes.",
+    "size": "190MB",
+    "reviews": "82k",
+    "ratingAvg": 4.5,
+    "downloads": "10M",
+    "ratings": [
+      { "name": "1 star", "count": 10000 },
+      { "name": "2 star", "count": 15000 },
+      { "name": "3 star", "count": 85000 },
+      { "name": "4 star", "count": 250000 },
+      { "name": "5 star", "count": 340000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/Jw008nm9/images-1.png",
+    "title": "SkillUp Academy",
+    "companyName": "Learning Hubs",
+    "id": 8,
+    "description": "Learn coding, design, and business skills from top instructors.",
+    "size": "320MB",
+    "reviews": "72k",
+    "ratingAvg": 4.7,
+    "downloads": "7M",
+    "ratings": [
+      { "name": "1 star", "count": 4000 },
+      { "name": "2 star", "count": 6000 },
+      { "name": "3 star", "count": 30000 },
+      { "name": "4 star", "count": 100000 },
+      { "name": "5 star", "count": 260000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/SDJ91ny8/unnamed-2.webp",
+    "title": "FitPulse Tracker",
+    "companyName": "Wellness Tech",
+    "id": 9,
+    "description": "Track steps, sleep, and heart rate for a healthier lifestyle.",
+    "size": "220MB",
+    "reviews": "60k",
+    "ratingAvg": 4.5,
+    "downloads":"2M",
+    "ratings": [
+      { "name": "1 star", "count": 50000 },
+      { "name": "2 star", "count": 70000 },
+      { "name": "3 star", "count": 230000 },
+      { "name": "4 star", "count": 650000 },
+      { "name": "5 star", "count": 800000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/WLJTwQN/images-2.jpg",
+    "title": "Fantasy Legends 3D",
+    "companyName": "Gaming Titans",
+    "id": 10,
+    "description": "An epic mobile RPG with stunning 3D graphics and multiplayer battles.",
+    "size":"290MB",
+    "reviews": "55k",
+    "ratingAvg": 4.2,
+    "downloads": "11M",
+    "ratings": [
+      { "name": "1 star", "count": 300000 },
+      { "name": "2 star", "count": 450000 },
+      { "name": "3 star", "count": 900000 },
+      { "name": "4 star", "count": 1850000 },
+      { "name": "5 star", "count": 2000000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/39807mZP/images-3.jpg",
+    "title": "CloudDrive Sync",
+    "companyName": "DataSafe Corp",
+    "id": 11,
+    "description": "  Secure cloud storage for all your files and photos with easy sharing.",
+    "size": "240MB",
+    "reviews": "32k",
+    "ratingAvg": 4.8,
+    "downloads": "4M",
+    "ratings": [
+      { "name": "1 star", "count": 3000 },
+      { "name": "2 star", "count": 5000 },
+      { "name": "3 star", "count": 22000 },
+      { "name": "4 star", "count": 100000 },
+      { "name": "5 star", "count": 190000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/Xx0GL7xH/images-4.jpg",
+    "title": "InstaReel Shorts",
+    "companyName": "Meta Platforms, Inc.",
+    "id": 12,
+    "description": "The fastest way to share short videos and photos with friends.",
+    "size": "120MB",
+    "reviews": "52k",
+    "ratingAvg": 4.4,
+    "downloads":"12M",
+    "ratings": [
+      { "name": "1 star", "count": 350000 },
+      { "name": "2 star", "count": 450000 },
+      { "name": "3 star", "count": 1200000 },
+      { "name": "4 star", "count": 3000000 },
+      { "name": "5 star", "count": 4200000 }
+    ]
+  }
+]
